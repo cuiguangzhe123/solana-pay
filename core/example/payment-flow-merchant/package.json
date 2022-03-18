@@ -1,0 +1,13 @@
+{
+  "name": "payment-flow-merchant",
+  "version": "1.0.0",
+  "description": "Hello world with nodejs",
+  "type": "commonjs",
+  "main": "establishConnection.js",
+  "scripts": {
+    "start": "node establishConnection.js"
+  },
+  "author": "Piotr Karpala",
+  "license": "MIT",
+  "dependencies": {}
+}
